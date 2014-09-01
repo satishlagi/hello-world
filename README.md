@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-Beginning Github. Learn you ass off
+ This is your first project in git
